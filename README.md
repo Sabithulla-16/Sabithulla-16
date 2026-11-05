@@ -69,9 +69,12 @@ ESP32 · Sensor Interfacing · Microcontrollers · IoT · ROS 2 · Gazebo
 
 A selection of independent builds and experiments focused on solving practical problems through technology.
 
-<h3><strong>01. GestureDrive AI</strong></h3>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Computer Vision · Gesture Control · Robotics
+<h3><strong>01. GestureDrive AI</strong></h3>
+<b>Computer Vision · Gesture Control · Robotics</b>
 
 A robotic vehicle controlled through real-time hand gesture recognition. Webcam input is processed to recognize gestures and send movement commands to an ESP32-powered vehicle.
 
@@ -83,13 +86,15 @@ Wireless vehicle communication
 
 Gesture smoothing and voice feedback
 
-Python OpenCV MediaPipe ESP32
+<code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>ESP32</code>
 
-↗ View repository
+<a href="https://github.com/Sabithulla-16/GestureDrive-AI">↗ View repository</a>
+
+</td>
+<td width="50%" valign="top">
 
 <h3><strong>02. Smart Energy Monitoring</strong></h3>
-
-IoT · Machine Learning · Electrical Protection
+<b>IoT · Machine Learning · Electrical Protection</b>
 
 An ESP32-based energy monitoring system designed to track electrical parameters, identify appliances and respond to overload conditions.
 
@@ -101,13 +106,18 @@ Overload detection and automatic cutoff
 
 Remote monitoring capabilities
 
-ESP32 Python ML ACS712 ZMPT101B
+<code>ESP32</code> <code>Python</code> <code>ML</code> <code>ACS712</code>
 
-↗ View repository
+<a href="https://github.com/Sabithulla-16/Energy-Monitor">↗ View repository</a>
+
+</td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 <h3><strong>03. SkyMind AI</strong></h3>
-
-Autonomous Systems · Geospatial Intelligence
+<b>Autonomous Systems · Geospatial Intelligence</b>
 
 An autonomous drone mission intelligence platform exploring geospatial visualization, mission planning and AI-assisted workflows.
 
@@ -119,63 +129,120 @@ Multi-agent workflow exploration
 
 3D mapping and visualization
 
-React FastAPI MapLibre Three.js
+<code>React</code> <code>FastAPI</code> <code>MapLibre</code> <code>Three.js</code>
 
-↗ View repository
+<a href="https://github.com/Sabithulla-16/SkyMind-AI">↗ View repository</a>
+
+</td>
+<td width="50%" valign="top">
 
 <h3><strong>04. Auric Ledger</strong></h3>
+<b>Metal Intelligence · Analytics · AI</b>
 
-Metal Intelligence · Analytics · AI
+A full-stack precious and industrial metal intelligence platform for India, bringing live and historical INR pricing, AI-assisted market insights, portfolio simulation and multi-channel notifications together.
 
-A metal intelligence platform bringing pricing, analytics and AI-generated insights into one application.
+Live and historical pricing for nine metals
 
-Real-time metal pricing and analytics
+AI chatbot and daily market summaries
 
-AI-powered summaries and insights
+Portfolio simulator with trade history and P/L tracking
 
-35+ REST API endpoints
+Email, browser push and Telegram notifications
 
-Supabase, Groq and Hugging Face integrations
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code>
 
-React Supabase PostgreSQL Groq
+<a href="https://github.com/valtry-16/Auric-Ledger">↗ View repository</a>
 
-↗ View repository
+</td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 <h3><strong>05. MailMind AI</strong></h3>
+<b>Email Intelligence · LLM Applications · Automation</b>
 
-Email Intelligence · LLM Applications · Automation
+An AI-powered Gmail productivity assistant with Telegram integration, multi-account support and automated email workflows.
 
-An AI-powered email productivity assistant designed to simplify inbox workflows through analysis, summarization and task extraction.
+AI email analysis and prioritization
 
-AI email analysis and summarization
+Email summaries and contextual reply drafts
 
-Context-aware reply generation
+Task and calendar event extraction
 
-Task and event extraction
+Scheduled daily and weekly reports
 
-Telegram-based interaction
+<code>Python</code> <code>Gmail API</code> <code>Telegram</code> <code>Supabase</code>
 
-Python LLM APIs Gmail API Telegram
+<a href="https://github.com/Sabithulla-16/MailMind-AI">↗ View repository</a>
 
-↗ View repository
+</td>
+<td width="50%" valign="top">
 
 <h3><strong>06. ANPR Smart Vehicle Verification</strong></h3>
+<b>Computer Vision · Number Plate Recognition</b>
 
-Computer Vision · Number Plate Recognition
+An automated vehicle verification system combining number plate detection, OCR, vehicle tracking and analytics.
 
-A vehicle verification workflow using automatic number plate detection, OCR and plate-text validation.
+YOLOv8-based number plate detection
 
-YOLO-based number plate detection
+PaddleOCR recognition and text correction
 
-OCR-based character recognition
+ByteTrack multi-vehicle tracking
 
-Image preprocessing and plate validation
+RTO verification, watchlist monitoring and evidence records
 
-Vehicle verification workflow
+<code>Python</code> <code>YOLOv8</code> <code>PaddleOCR</code> <code>ByteTrack</code>
 
-Python YOLOv8 OpenCV OCR
+<a href="https://github.com/Sabithulla-16/ANPR-SmartVehicleVerification">↗ View repository</a>
 
-↗ View repository
+</td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3><strong>07. SearchMind AI</strong></h3>
+<b>AI Search · Hybrid Retrieval · RAG</b>
+
+A modular multi-source AI search engine that retrieves and synthesizes information from web pages, PDFs, local files and GitHub repositories.
+
+Web, PDF, filesystem and GitHub search pipelines
+
+Background search jobs with live SSE updates
+
+Hybrid retrieval using vector search and BM25
+
+Candidate selection, cross-encoder reranking and LLM answers
+
+<code>Python</code> <code>FastAPI</code> <code>React</code> <code>RAG</code>
+
+<a href="https://github.com/Sabithulla-16/SearchMind-AI">↗ View repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><strong>08. SkyMind AI — Drone Mission Intelligence</strong></h3>
+<b>Drone Systems · Geospatial Planning · AI</b>
+
+An exploratory platform concept for intelligent drone mission planning, combining geospatial interfaces, 3D visualization and AI-assisted mission workflows.
+
+Geospatial mission visualization
+
+Mission planning concepts
+
+AI-assisted operational workflows
+
+3D environment and mapping exploration
+
+<code>React</code> <code>FastAPI</code> <code>MapLibre</code> <code>Three.js</code>
+
+<a href="https://github.com/Sabithulla-16/SkyMind-AI">↗ View repository</a>
+
+</td>
+
+  </tr>
+</table>
 
 <div align="center">
 
