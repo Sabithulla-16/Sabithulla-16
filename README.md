@@ -26,7 +26,7 @@
 
 </div>
 
-01   /   About Me
+<h2><strong>01 &nbsp; / &nbsp; About Me</strong></h2>
 
 I'm an Electronics and Communication Engineering undergraduate at Rajalakshmi Engineering College with a strong interest in building technology that connects intelligent software with the physical world.
 
@@ -34,7 +34,7 @@ I enjoy working across artificial intelligence, computer vision, embedded system
 
 I'm particularly interested in solutions that combine hardware, software and intelligent decision-making to address practical challenges.
 
-02   /   Technical Toolkit
+<h2><strong>02 &nbsp; / &nbsp; Technical Toolkit</strong></h2>
 
 <div align="center">
 
@@ -65,102 +65,117 @@ FastAPI · REST APIs · Ollama · Hugging Face · Netlify · Vercel · MATLAB ·
 Embedded & Robotics
 ESP32 · Sensor Interfacing · Microcontrollers · IoT · ROS 2 · Gazebo
 
-03   /   Selected Projects
+<h2><strong>03 &nbsp; / &nbsp; Selected Projects</strong></h2>
 
 A selection of independent builds and experiments focused on solving practical problems through technology.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01. GestureDrive AI</h3>
-      <b>Computer Vision · Gesture Control · Robotics</b>
-      <p>A robotic vehicle controlled through real-time hand gesture recognition. Webcam input is processed to recognize gestures and send movement commands to an ESP32-powered vehicle.</p>
-      <ul>
-        <li>Hand tracking with OpenCV and MediaPipe</li>
-        <li>Gesture-to-command mapping</li>
-        <li>Wireless vehicle communication</li>
-        <li>Gesture smoothing and voice feedback</li>
-      </ul>
-      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>ESP32</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/GestureDrive-AI">↗ View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02. Smart Energy Monitoring</h3>
-      <b>IoT · Machine Learning · Electrical Protection</b>
-      <p>An ESP32-based energy monitoring system designed to track electrical parameters, identify appliances and respond to overload conditions.</p>
-      <ul>
-        <li>Real-time voltage and current monitoring</li>
-        <li>Machine-learning-based appliance identification</li>
-        <li>Overload detection and automatic cutoff</li>
-        <li>Remote monitoring capabilities</li>
-      </ul>
-      <code>ESP32</code> <code>Python</code> <code>ML</code> <code>ACS712</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/Energy-Monitor">↗ View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03. SkyMind AI</h3>
-      <b>Autonomous Systems · Geospatial Intelligence</b>
-      <p>An autonomous drone mission intelligence platform exploring geospatial visualization, mission planning and AI-assisted workflows.</p>
-      <ul>
-        <li>Interactive geospatial interface</li>
-        <li>AI-assisted mission intelligence</li>
-        <li>Multi-agent workflow exploration</li>
-        <li>3D mapping and visualization</li>
-      </ul>
-      <code>React</code> <code>FastAPI</code> <code>MapLibre</code> <code>Three.js</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/SkyMind-AI">↗ View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04. Auric Ledger</h3>
-      <b>Metal Intelligence · Analytics · AI</b>
-      <p>A metal intelligence platform bringing pricing, analytics and AI-generated insights into one application.</p>
-      <ul>
-        <li>Real-time metal pricing and analytics</li>
-        <li>AI-powered summaries and insights</li>
-        <li>35+ REST API endpoints</li>
-        <li>Supabase, Groq and Hugging Face integrations</li>
-      </ul>
-      <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Groq</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/Auric-Ledger">↗ View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>05. MailMind AI</h3>
-      <b>Email Intelligence · LLM Applications · Automation</b>
-      <p>An AI-powered email productivity assistant designed to simplify inbox workflows through analysis, summarization and task extraction.</p>
-      <ul>
-        <li>AI email analysis and summarization</li>
-        <li>Context-aware reply generation</li>
-        <li>Task and event extraction</li>
-        <li>Telegram-based interaction</li>
-      </ul>
-      <code>Python</code> <code>LLM APIs</code> <code>Gmail API</code> <code>Telegram</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/MailMind-AI">↗ View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06. ANPR Smart Vehicle Verification</h3>
-      <b>Computer Vision · Number Plate Recognition</b>
-      <p>A vehicle verification workflow using automatic number plate detection, OCR and plate-text validation.</p>
-      <ul>
-        <li>YOLO-based number plate detection</li>
-        <li>OCR-based character recognition</li>
-        <li>Image preprocessing and plate validation</li>
-        <li>Vehicle verification workflow</li>
-      </ul>
-      <code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>OCR</code>
-      <br/><br/>
-      <a href="https://github.com/Sabithulla-16/ANPR-SmartVehicleVerification">↗ View repository</a>
-    </td>
-  </tr>
-</table>
+<h3><strong>01. GestureDrive AI</strong></h3>
+
+Computer Vision · Gesture Control · Robotics
+
+A robotic vehicle controlled through real-time hand gesture recognition. Webcam input is processed to recognize gestures and send movement commands to an ESP32-powered vehicle.
+
+Hand tracking with OpenCV and MediaPipe
+
+Gesture-to-command mapping
+
+Wireless vehicle communication
+
+Gesture smoothing and voice feedback
+
+Python OpenCV MediaPipe ESP32
+
+↗ View repository
+
+<h3><strong>02. Smart Energy Monitoring</strong></h3>
+
+IoT · Machine Learning · Electrical Protection
+
+An ESP32-based energy monitoring system designed to track electrical parameters, identify appliances and respond to overload conditions.
+
+Real-time voltage and current monitoring
+
+Machine-learning-based appliance identification
+
+Overload detection and automatic cutoff
+
+Remote monitoring capabilities
+
+ESP32 Python ML ACS712 ZMPT101B
+
+↗ View repository
+
+<h3><strong>03. SkyMind AI</strong></h3>
+
+Autonomous Systems · Geospatial Intelligence
+
+An autonomous drone mission intelligence platform exploring geospatial visualization, mission planning and AI-assisted workflows.
+
+Interactive geospatial interface
+
+AI-assisted mission intelligence
+
+Multi-agent workflow exploration
+
+3D mapping and visualization
+
+React FastAPI MapLibre Three.js
+
+↗ View repository
+
+<h3><strong>04. Auric Ledger</strong></h3>
+
+Metal Intelligence · Analytics · AI
+
+A metal intelligence platform bringing pricing, analytics and AI-generated insights into one application.
+
+Real-time metal pricing and analytics
+
+AI-powered summaries and insights
+
+35+ REST API endpoints
+
+Supabase, Groq and Hugging Face integrations
+
+React Supabase PostgreSQL Groq
+
+↗ View repository
+
+<h3><strong>05. MailMind AI</strong></h3>
+
+Email Intelligence · LLM Applications · Automation
+
+An AI-powered email productivity assistant designed to simplify inbox workflows through analysis, summarization and task extraction.
+
+AI email analysis and summarization
+
+Context-aware reply generation
+
+Task and event extraction
+
+Telegram-based interaction
+
+Python LLM APIs Gmail API Telegram
+
+↗ View repository
+
+<h3><strong>06. ANPR Smart Vehicle Verification</strong></h3>
+
+Computer Vision · Number Plate Recognition
+
+A vehicle verification workflow using automatic number plate detection, OCR and plate-text validation.
+
+YOLO-based number plate detection
+
+OCR-based character recognition
+
+Image preprocessing and plate validation
+
+Vehicle verification workflow
+
+Python YOLOv8 OpenCV OCR
+
+↗ View repository
 
 <div align="center">
 
@@ -170,7 +185,7 @@ A selection of independent builds and experiments focused on solving practical p
 
 </div>
 
-04   /   Engineering Approach
+<h2><strong>04 &nbsp; / &nbsp; Engineering Approach</strong></h2>
 
 <table>
   <tr>
@@ -195,21 +210,17 @@ A selection of independent builds and experiments focused on solving practical p
 
 I'm interested in contributing to research collaborations, open-source projects, industry-oriented challenges and practical engineering solutions.
 
-05   /   GitHub Activity
+<h2><strong>05 &nbsp; / &nbsp; GitHub Activity</strong></h2>
 
 <div align="center">
 
-<a href="https://github.com/Sabithulla-16">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabithulla-16&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A99BFF&icon_color=63D6C5&text_color=DCE3F0&rank_icon=github" height="165" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/Sabithulla-16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithulla-16&layout=compact&hide_border=true&bg_color=0B1020&title_color=A99BFF&text_color=DCE3F0" height="165" alt="Most used programming languages" />
-</a>
-
-<br/><br/>
+Explore my work and development activity directly on GitHub.
 
 <a href="https://github.com/Sabithulla-16?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW-GitHub%20Repositories-20263D?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  <img src="https://img.shields.io/badge/Repositories-Browse%20all%20projects-7568E8?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
+</a>
+<a href="https://github.com/Sabithulla-16">
+  <img src="https://img.shields.io/badge/Profile-View%20contributions-087E8B?style=for-the-badge&logo=github&logoColor=white" alt="View contribution activity" />
 </a>
 
 </div>
