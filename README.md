@@ -1,328 +1,237 @@
-::: {align="center"}
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B18,35:17123B,70:263A72,100:0B6E75&text=MOHAMMED%20SABITHULLA%20SHARIEFF%20M&fontColor=F4F3FF&fontSize=34&fontAlignY=42&desc=AI%20%2F%20EMBEDDED%20SYSTEMS%20%2F%20ROBOTICS%20%2F%20SOFTWARE&descSize=13&descAlignY=63&animation=twinkling" />{=html}
+<div align="center">
 
-<br/>{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090D1A,45:19143A,75:263B70,100:087E8B&text=MOHAMMED%20SABITHULLA%20SHARIEFF%20M&fontColor=F5F3FF&fontSize=34&fontAlignY=50&animation=twinkling" alt="Mohammed Sabithulla Sharieff M" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=9B8CFF&center=true&vCenter=true&width=780&lines=Electronics+%26+Communication+Engineering+Student;Building+Intelligent+Software+%2B+Hardware;AI+%7C+Computer+Vision+%7C+IoT+%7C+Robotics;Turning+ideas+into+working+engineering+systems" alt="Animated introduction" />{=html}
+<br/>
 
-<br/>{=html}<br/>{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=A99BFF&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+Student;Curious+about+AI%2C+intelligent+systems+and+robotics;Building+ideas+through+experimentation+and+engineering" alt="Animated introduction" />
 
-<a href="https://github.com/Sabithulla-16">{=html}
-<img src="https://img.shields.io/badge/GitHub-Sabithulla--16-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
-</a>{=html}
-<a href="https://linkedin.com/in/sabithullasharieff">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
-</a>{=html} <a href="mailto:sabithullasharieff16@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>{=html}
-</a>{=html}
+<br/><br/>
 
-<br/>{=html}<br/>{=html}
+<a href="https://github.com/Sabithulla-16">
+  <img src="https://img.shields.io/badge/GitHub-Sabithulla--16-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://linkedin.com/in/sabithullasharieff">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="mailto:sabithullasharieff16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<img src="https://img.shields.io/badge/ECE%20Undergraduate-Rajalakshmi%20Engineering%20College-34416B?style=flat-square" alt="Education"/>{=html}
-<img src="https://img.shields.io/badge/Graduation-May%202028-34416B?style=flat-square" alt="Graduation"/>{=html}
-<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-34416B?style=flat-square" alt="Location"/>{=html}
-:::
+<br/><br/>
 
-01 / The Engineer Behind the Code
+<img src="https://img.shields.io/badge/Education-Rajalakshmi%20Engineering%20College-343B63?style=flat-square" alt="College" />
+<img src="https://img.shields.io/badge/Graduation-May%202028-343B63?style=flat-square" alt="Graduation" />
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-343B63?style=flat-square" alt="Location" />
 
-I'm an Electronics and Communication Engineering undergraduate at
-Rajalakshmi Engineering College who enjoys building technology at the
-intersection of intelligent software and the physical world.
+</div>
 
-My work spans AI-powered applications, computer vision, embedded
-systems, IoT, robotics and full-stack development. I like taking an idea
-beyond a demo---understanding the problem, experimenting with the right
-technologies, integrating the pieces and building something that can
-solve a real need.
+01   /   About Me
 
-I'm especially drawn to projects where software has to interact with
-hardware, data has to become useful intelligence, and engineering has a
-tangible outcome.
+I'm an Electronics and Communication Engineering undergraduate at Rajalakshmi Engineering College with a strong interest in building technology that connects intelligent software with the physical world.
 
-02 / Technical Arsenal
+I enjoy working across artificial intelligence, computer vision, embedded systems, IoT, robotics and application development. My projects are driven by curiosity: understanding a problem, experimenting with possible approaches, integrating the right technologies and turning an idea into something functional.
 
-::: {align="center"}
-LANGUAGES
+I'm particularly interested in solutions that combine hardware, software and intelligent decision-making to address practical challenges.
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart&theme=dark" alt="Python, C, C++, JavaScript and Dart"/>{=html}
+02   /   Technical Toolkit
 
-AI · MACHINE LEARNING · COMPUTER VISION
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=dark" alt="OpenCV, PyTorch and TensorFlow"/>{=html}
+PROGRAMMING LANGUAGES
 
-Machine Learning · LLMs · Generative AI · RAG · MediaPipe ·
-YOLO · Image Processing · AI API Integration
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart&theme=dark" alt="Python, C, C++, JavaScript and Dart" />
 
-WEB · BACKEND · APPLICATIONS
+WEB & APPLICATION DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark" alt="HTML, CSS, React, Node.js, Express and FastAPI"/>{=html}
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js and Express" />
 
-REST API Development · Authentication · Responsive Interfaces ·
-Backend Integration
+EMBEDDED SYSTEMS & HARDWARE
 
-EMBEDDED · IoT · ROBOTICS
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino and Raspberry Pi" />
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&theme=dark" alt="Arduino, Raspberry Pi and ROS"/>{=html}
+DATABASES & DEVELOPER TOOLS
 
-ESP32 · Microcontrollers · Sensor Interfacing ·
-Edge Intelligence · ROS 2 · Gazebo
+<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,git,github,vscode,linux&theme=dark" alt="Supabase, PostgreSQL, Firebase, Git, GitHub, VS Code and Linux" />
 
-DATA · PLATFORMS · DEVELOPER TOOLS
+</div>
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,git,github,vscode,linux&theme=dark" alt="Supabase, PostgreSQL, Firebase, Git, GitHub, VS Code and Linux"/>{=html}
+AI & Computer Vision
+Machine Learning · LLMs · Generative AI · RAG · OpenCV · MediaPipe · YOLO · Image Processing · AI API Integration
 
-Ollama · Hugging Face · Netlify · Vercel · MATLAB ·
-Arduino IDE
-:::
+Backend & Platforms
+FastAPI · REST APIs · Ollama · Hugging Face · Netlify · Vercel · MATLAB · Arduino IDE
 
-03 / Selected Builds
+Embedded & Robotics
+ESP32 · Sensor Interfacing · Microcontrollers · IoT · ROS 2 · Gazebo
 
-A few projects that represent the kind of problems I enjoy working
-on---from connecting gestures to machines to bringing intelligence into
-everyday systems.
+03   /   Selected Projects
+
+A selection of independent builds and experiments focused on solving practical problems through technology.
 
 <table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-01. GestureDrive AI
-
-Computer Vision × Robotics × Embedded Systems
-
-A gesture-controlled robotic vehicle that interprets hand movements
-through a webcam and translates them into movement commands for an
-ESP32-powered car.
-
-Real-time hand tracking with OpenCV and MediaPipe
-
-Gesture-to-command mapping
-
-Wireless vehicle communication
-
-Gesture smoothing and voice feedback
-
-Python OpenCV MediaPipe ESP32 L298N
-
-↗ View source code
-
-</td>
-
-<td width="50%" valign="top">
-
-02. Smart Energy Monitoring
-
-IoT × Machine Learning × Electrical Protection
-
-An ESP32-based energy monitoring and protection system designed to track
-electrical parameters, identify appliances and respond to overload
-conditions.
-
-Live voltage and current monitoring
-
-ML-based appliance identification
-
-Overload detection and automatic cutoff
-
-Remote monitoring capabilities
-
-ESP32 Python ML ACS712 ZMPT101B
-
-↗ View source code
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-03. SkyMind AI
-
-Autonomous Systems × Agentic AI × Geospatial Intelligence
-
-An autonomous drone mission intelligence concept combining geospatial
-visualization, mission planning and AI-assisted workflows.
-
-Interactive geospatial interface
-
-AI-assisted mission intelligence
-
-Multi-agent workflow exploration
-
-3D mapping and visualization
-
-React FastAPI Python MapLibre Three.js
-
-↗ View source code
-
-</td>
-
-<td width="50%" valign="top">
-
-04. Auric Ledger
-
-Full-Stack Engineering × Metal Intelligence
-
-A metal intelligence platform bringing pricing, analytics and
-AI-generated insights into one application.
-
-Real-time metal pricing and analytics
-
-AI-powered summaries and insights
-
-35+ REST API endpoints
-
-Supabase, Groq and Hugging Face integrations
-
-React Supabase PostgreSQL Groq Hugging Face
-
-↗ View source code
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-05. MailMind AI
-
-LLM Applications × Workflow Automation
-
-An AI-powered email productivity assistant for understanding inbox
-content and reducing repetitive email workflows.
-
-AI email analysis and summarization
-
-Context-aware reply generation
-
-Task and event extraction
-
-Telegram-based interaction
-
-Python LLM APIs Gmail API Telegram
-
-↗ View source code
-
-</td>
-
-<td width="50%" valign="top">
-
-06. ANPR Smart Vehicle Verification
-
-Computer Vision × Intelligent Recognition
-
-A vehicle verification workflow using automatic number plate detection,
-OCR and plate-text validation.
-
-YOLO-based number plate detection
-
-OCR-based character recognition
-
-Image preprocessing and plate validation
-
-Vehicle verification workflow
-
-Python YOLOv8 OpenCV OCR
-
-↗ View source
-code
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. GestureDrive AI</h3>
+      <b>Computer Vision · Gesture Control · Robotics</b>
+      <p>A robotic vehicle controlled through real-time hand gesture recognition. Webcam input is processed to recognize gestures and send movement commands to an ESP32-powered vehicle.</p>
+      <ul>
+        <li>Hand tracking with OpenCV and MediaPipe</li>
+        <li>Gesture-to-command mapping</li>
+        <li>Wireless vehicle communication</li>
+        <li>Gesture smoothing and voice feedback</li>
+      </ul>
+      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>ESP32</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/GestureDrive-AI">↗ View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. Smart Energy Monitoring</h3>
+      <b>IoT · Machine Learning · Electrical Protection</b>
+      <p>An ESP32-based energy monitoring system designed to track electrical parameters, identify appliances and respond to overload conditions.</p>
+      <ul>
+        <li>Real-time voltage and current monitoring</li>
+        <li>Machine-learning-based appliance identification</li>
+        <li>Overload detection and automatic cutoff</li>
+        <li>Remote monitoring capabilities</li>
+      </ul>
+      <code>ESP32</code> <code>Python</code> <code>ML</code> <code>ACS712</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/Energy-Monitor">↗ View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. SkyMind AI</h3>
+      <b>Autonomous Systems · Geospatial Intelligence</b>
+      <p>An autonomous drone mission intelligence platform exploring geospatial visualization, mission planning and AI-assisted workflows.</p>
+      <ul>
+        <li>Interactive geospatial interface</li>
+        <li>AI-assisted mission intelligence</li>
+        <li>Multi-agent workflow exploration</li>
+        <li>3D mapping and visualization</li>
+      </ul>
+      <code>React</code> <code>FastAPI</code> <code>MapLibre</code> <code>Three.js</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/SkyMind-AI">↗ View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. Auric Ledger</h3>
+      <b>Metal Intelligence · Analytics · AI</b>
+      <p>A metal intelligence platform bringing pricing, analytics and AI-generated insights into one application.</p>
+      <ul>
+        <li>Real-time metal pricing and analytics</li>
+        <li>AI-powered summaries and insights</li>
+        <li>35+ REST API endpoints</li>
+        <li>Supabase, Groq and Hugging Face integrations</li>
+      </ul>
+      <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Groq</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/Auric-Ledger">↗ View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05. MailMind AI</h3>
+      <b>Email Intelligence · LLM Applications · Automation</b>
+      <p>An AI-powered email productivity assistant designed to simplify inbox workflows through analysis, summarization and task extraction.</p>
+      <ul>
+        <li>AI email analysis and summarization</li>
+        <li>Context-aware reply generation</li>
+        <li>Task and event extraction</li>
+        <li>Telegram-based interaction</li>
+      </ul>
+      <code>Python</code> <code>LLM APIs</code> <code>Gmail API</code> <code>Telegram</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/MailMind-AI">↗ View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06. ANPR Smart Vehicle Verification</h3>
+      <b>Computer Vision · Number Plate Recognition</b>
+      <p>A vehicle verification workflow using automatic number plate detection, OCR and plate-text validation.</p>
+      <ul>
+        <li>YOLO-based number plate detection</li>
+        <li>OCR-based character recognition</li>
+        <li>Image preprocessing and plate validation</li>
+        <li>Vehicle verification workflow</li>
+      </ul>
+      <code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>OCR</code>
+      <br/><br/>
+      <a href="https://github.com/Sabithulla-16/ANPR-SmartVehicleVerification">↗ View repository</a>
+    </td>
+  </tr>
 </table>
 
-::: {align="center"}
-<a href="https://github.com/Sabithulla-16?tab=repositories">{=html}
-<img src="https://img.shields.io/badge/EXPLORE-More%20of%20my%20work-7568E8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>{=html}
-</a>{=html}
-:::
+<div align="center">
 
-04 / How I Approach Engineering
+<a href="https://github.com/Sabithulla-16?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-View%20Repositories-7568E8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
+
+04   /   Engineering Approach
 
 <table>
-
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-Understand
-
-Start with the real problem, the constraints and the people affected by
-it.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-Experiment
-
-Explore ideas, compare approaches and test assumptions with practical
-prototypes.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-Integrate
-
-Bring AI, software, data and hardware together into a coherent system.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-Deliver
-
-Refine the solution, validate its behaviour and make it useful beyond
-the demo.
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>01 · Understand</h3>
+      Start with the problem, its constraints and the people it affects.
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>02 · Experiment</h3>
+      Explore ideas, test assumptions and learn through prototypes.
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>03 · Integrate</h3>
+      Bring hardware, software, data and intelligent methods together.
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>04 · Improve</h3>
+      Validate the result, refine the details and make it useful.
+    </td>
+  </tr>
 </table>
 
-Areas I want to contribute to: applied AI, intelligent embedded
-systems, robotics, research-driven prototypes, open-source development
-and industry-oriented engineering projects.
+I'm interested in contributing to research collaborations, open-source projects, industry-oriented challenges and practical engineering solutions.
 
-05 / GitHub Footprint
+05   /   GitHub Activity
 
-::: {align="center"}
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabithulla-16&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A99BFF&icon_color=63D6C5&text_color=DCE3F0&rank_icon=github" alt="GitHub profile statistics"/>{=html}
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithulla-16&layout=compact&hide_border=true&bg_color=0B1020&title_color=A99BFF&text_color=DCE3F0" alt="Most used languages"/>{=html}
+<div align="center">
 
-<br/>{=html}<br/>{=html}
+<a href="https://github.com/Sabithulla-16">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabithulla-16&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A99BFF&icon_color=63D6C5&text_color=DCE3F0&rank_icon=github" height="165" alt="GitHub profile statistics" />
+</a>
+<a href="https://github.com/Sabithulla-16">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithulla-16&layout=compact&hide_border=true&bg_color=0B1020&title_color=A99BFF&text_color=DCE3F0" height="165" alt="Most used programming languages" />
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sabithulla-16&hide_border=true&background=0B1020&ring=A99BFF&fire=63D6C5&currStreakLabel=A99BFF&sideLabels=DCE3F0&dates=8B96AA" alt="GitHub contribution streak"/>{=html}
-:::
+<br/><br/>
 
-::: {align="center"}
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0B6E75,45:263A72,100:17123B&text=LET'S%20BUILD%20SOMETHING%20MEANINGFUL&fontColor=F4F3FF&fontSize=25&fontAlignY=42&desc=Ideas%20are%20better%20when%20we%20engineer%20them%20together.&descSize=13&descAlignY=65&animation=fadeIn" />{=html}
+<a href="https://github.com/Sabithulla-16?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW-GitHub%20Repositories-20263D?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+</a>
 
-<br/>{=html}
+</div>
 
-Open to collaboration · Research projects · Internships · Engineering
-challenges
+<div align="center">
 
-<a href="mailto:sabithullasharieff16@gmail.com">{=html}
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>{=html}
-</a>{=html}
-<a href="https://linkedin.com/in/sabithullasharieff">{=html}
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
-</a>{=html} <a href="https://github.com/Sabithulla-16">{=html}
-<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
-</a>{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:087E8B,35:263B70,70:19143A,100:090D1A&text=LET'S%20BUILD%20SOMETHING%20MEANINGFUL&fontColor=F5F3FF&fontSize=24&fontAlignY=58&animation=twinkling" alt="Let's build something meaningful" />
 
-<br/>{=html}<br/>{=html}
+Open to collaboration · Research projects · Internships · Engineering challenges
 
-<sub>{=html}Building beyond boundaries --- where intelligence meets
-engineering.</sub>{=html}
-:::
+<a href="mailto:sabithullasharieff16@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/sabithullasharieff">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Sabithulla-16">
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<sub>Curiosity into concepts. Concepts into things that work.</sub>
+
+</div>
